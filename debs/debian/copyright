@@ -1,0 +1,26 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: jaudiotagger
+Source: https://bitbucket.org/ijabz/jaudiotagger
+
+Files: *
+Copyright:
+ 2003-2005 Christian Laireiter <liree@web.de>
+ 2003-2005 Raphaël Slinckx <raphael@slinckx.net>
+ 2006 Horizon Wimba
+ 2003-2005 Jaikoz JThink Ltd
+ 2004,2005 Jaudiotagger
+ 2003,2004 MusicTag
+License: LGPL-2.1
+
+Files: debian/*
+Copyright: 2015, Yadickson Soto <yadickson@gmail.com>
+License: GPL-3
+
+License: LGPL-2.1
+ On Debian systems, the full text of the LGPL-2.1 license
+ can be found in the file '/usr/share/common-licenses/LGPL-2.1'
+
+License: GPL-3
+ On Debian systems, the full text of the GPL-3 license
+ can be found in the file '/usr/share/common-licenses/GPL-3'
+

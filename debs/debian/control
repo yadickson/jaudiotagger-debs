@@ -1,0 +1,17 @@
+Source: jaudiotagger
+Section: java
+Priority: optional
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Uploaders: Yadickson Soto <yadickson@gmail.com>
+Build-Depends: debhelper (>= 9), cdbs, default-jdk, maven-debian-helper (>= 1.5)
+Standards-Version: 3.9.6
+Homepage: https://bitbucket.org/ijabz/jaudiotagger
+
+Package: libjaudiotagger-java
+Architecture: all
+Depends: ${misc:Depends}, ${maven:Depends}
+Suggests: ${maven:OptionalDepends}
+Description: library for editing tags like ID3 in audio files such as MP3s
+ Jaudiotagger is the Audio Tagging library used for tagging data in
+ audio files. It currently supports Mp4 (Mp4, M4p, M4a), Mp3 (id3v1,
+ id3v2) and Ogg Vorbis.

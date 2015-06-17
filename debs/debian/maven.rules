@@ -1,2 +1,2 @@
 
-net.jthink jaudiotagger jar s/.*/debian/ * *
+s/net\.jthink/org/ jaudiotagger jar s/.*/debian/ * *

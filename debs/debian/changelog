@@ -1,6 +1,12 @@
+jaudiotagger (2.1.0-2) unstable; urgency=medium
+
+  * New release
+
+ -- Yadickson Soto <yadickson@gmail.com>  Thu, 02 Jul 2015 00:03:18 -0430
+
 jaudiotagger (2.1.0-1) unstable; urgency=medium
 
-  * New upstream release.
+  * Init commit
 
  -- Yadickson Soto <yadickson@gmail.com>  Wed, 17 Jun 2015 17:13:49 -0430
 
